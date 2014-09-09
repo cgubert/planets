@@ -5,3 +5,5 @@ Cold and dry, but everything is my favorite color.
 The two moons may be a problem for the Wolfman.
 But the Mummy will appreciate the lack of humidity. 
 >>>>>>> bedaba37b6d6e425b14b9342b43b1a973d0154ec
+
+This line added to our home copy.
